@@ -56,3 +56,4 @@
 /Users/ericweiss/Documents/projects/BlazorSample/obj/Debug/net8.0/MyBlazorApp.pdb
 /Users/ericweiss/Documents/projects/BlazorSample/obj/Debug/net8.0/MyBlazorApp.genruntimeconfig.cache
 /Users/ericweiss/Documents/projects/BlazorSample/obj/Debug/net8.0/ref/MyBlazorApp.dll
+/Users/ericweiss/Documents/projects/BlazorSample/obj/Debug/net8.0/MyBlazorApp.sourcelink.json
